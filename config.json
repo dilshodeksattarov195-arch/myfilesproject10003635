@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpalidate",
+        "uuid": 16353865,
+        "checksum": "ccgudn"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
